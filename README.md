@@ -93,3 +93,15 @@ The report uses a star‑schema‑style model with the following tables:
 - Data Modeling (Star Schema)
 - Interactive Visuals & Filters
 - Operational Quality Analytics
+
+# Overview Page
+<img width="1307" height="736" alt="DQA_PBI_p7" src="https://github.com/user-attachments/assets/d6411bc4-e58a-430b-a032-b29b2d435d91" />
+
+# Details Page
+<img width="1312" height="690" alt="DQA_PBI_p8" src="https://github.com/user-attachments/assets/b835726b-a5c8-4a7e-a828-4973cf8207ae" />
+
+# Overview Analysis Page
+<img width="1301" height="730" alt="DQA_PBI_p9" src="https://github.com/user-attachments/assets/7ff2985d-5de2-4023-ad57-19b2e302b9cc" />
+
+
+
